@@ -7,7 +7,7 @@ Python, LangChain, FAISS, Streamlit, Groq (Llama 3)
 ## How to Run
 1. Clone the repo
 2. pip install -r requirements.txt
-3. streamlit run app.py
+3. streamlit run index.py
 
 ## Features
 - Upload any PDF
